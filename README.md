@@ -1,0 +1,1 @@
+docker run image -d -p 7001:7001
